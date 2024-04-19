@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Andrea, a 27-year-old programmer from Barcelona 🌍. Eager to learn and ready for exciting projects. Let's build something awesome together! 💻✨
+👋 Hi there! I'm Andrea, a 27-year-old programmer from Barcelona 🌍. Eager to learn and ready for exciting projects.💻✨
 
 
 ## 🌐 Socials:
