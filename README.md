@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Andrea, a 27-year-old programmer from Barcelona 🌍.  Eager to learn new skills and looking forward to collaborating on exciting projects.💻✨
+👋 Hi there! I'm Andrea, a 28-year-old programmer from Barcelona 🌍.  Eager to learn new skills and looking forward to collaborating on exciting projects.💻✨
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/andrea-lopez-) 
